@@ -1,4 +1,4 @@
-# 🧪 E-commerce Web Automation Framework
+# E-commerce Web Automation Framework
 
 Automated end-to-end testing framework for **Sauce Demo**, a web application designed for practicing and demonstrating software testing and test automation.
 
